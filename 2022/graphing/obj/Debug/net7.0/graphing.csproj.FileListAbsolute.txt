@@ -1,0 +1,5 @@
+C:\Users\andy.bees\Desktop\AdventofCode\graphing\obj\Debug\net7.0\graphing.csproj.AssemblyReference.cache
+C:\Users\andy.bees\Desktop\AdventofCode\graphing\obj\Debug\net7.0\graphing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy.bees\Desktop\AdventofCode\graphing\obj\Debug\net7.0\graphing.AssemblyInfoInputs.cache
+C:\Users\andy.bees\Desktop\AdventofCode\graphing\obj\Debug\net7.0\graphing.AssemblyInfo.cs
+C:\Users\andy.bees\Desktop\AdventofCode\graphing\obj\Debug\net7.0\graphing.csproj.CoreCompileInputs.cache

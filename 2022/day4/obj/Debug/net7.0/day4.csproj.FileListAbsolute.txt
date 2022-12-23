@@ -1,0 +1,15 @@
+C:\Users\andy.bees\Desktop\AdventofCode\day4\obj\Debug\net7.0\day4.csproj.AssemblyReference.cache
+C:\Users\andy.bees\Desktop\AdventofCode\day4\obj\Debug\net7.0\day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy.bees\Desktop\AdventofCode\day4\obj\Debug\net7.0\day4.AssemblyInfoInputs.cache
+C:\Users\andy.bees\Desktop\AdventofCode\day4\obj\Debug\net7.0\day4.AssemblyInfo.cs
+C:\Users\andy.bees\Desktop\AdventofCode\day4\obj\Debug\net7.0\day4.csproj.CoreCompileInputs.cache
+C:\Users\andy.bees\Desktop\AdventofCode\day4\bin\Debug\net7.0\day4.exe
+C:\Users\andy.bees\Desktop\AdventofCode\day4\bin\Debug\net7.0\day4.deps.json
+C:\Users\andy.bees\Desktop\AdventofCode\day4\bin\Debug\net7.0\day4.runtimeconfig.json
+C:\Users\andy.bees\Desktop\AdventofCode\day4\bin\Debug\net7.0\day4.dll
+C:\Users\andy.bees\Desktop\AdventofCode\day4\bin\Debug\net7.0\day4.pdb
+C:\Users\andy.bees\Desktop\AdventofCode\day4\obj\Debug\net7.0\day4.dll
+C:\Users\andy.bees\Desktop\AdventofCode\day4\obj\Debug\net7.0\refint\day4.dll
+C:\Users\andy.bees\Desktop\AdventofCode\day4\obj\Debug\net7.0\day4.pdb
+C:\Users\andy.bees\Desktop\AdventofCode\day4\obj\Debug\net7.0\day4.genruntimeconfig.cache
+C:\Users\andy.bees\Desktop\AdventofCode\day4\obj\Debug\net7.0\ref\day4.dll
